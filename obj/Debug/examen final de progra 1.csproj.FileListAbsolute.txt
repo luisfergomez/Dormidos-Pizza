@@ -1,0 +1,20 @@
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\bin\Debug\examen final de progra 1.exe.config
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\bin\Debug\examen final de progra 1.exe
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\bin\Debug\examen final de progra 1.pdb
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen_final_de_progra_1.Form1.resources
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen_final_de_progra_1.Properties.Resources.resources
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.exe
+C:\Users\emanu\Desktop\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.pdb
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\bin\Debug\examen final de progra 1.exe.config
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\bin\Debug\examen final de progra 1.exe
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\bin\Debug\examen final de progra 1.pdb
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.csproj.AssemblyReference.cache
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen_final_de_progra_1.Form1.resources
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen_final_de_progra_1.Properties.Resources.resources
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.csproj.GenerateResource.cache
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.csproj.CoreCompileInputs.cache
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.exe
+C:\Users\Luisfer\Downloads\examen final de progra 1\examen final de progra 1\obj\Debug\examen final de progra 1.pdb
